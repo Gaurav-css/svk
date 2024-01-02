@@ -22,7 +22,8 @@
     - custom css link
   -->
   <link rel="stylesheet" href="./assets/css/style.css">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <!-- 
     - google font link
   -->
@@ -91,6 +92,7 @@
             .dropdown {
               position: relative;
               display: inline-block;
+              /* margin: -1%; */
               
             }
             
@@ -188,10 +190,10 @@
             #menu a {
               display: block;
               line-height: 35px;
-              padding: 0 14px;
+              padding: -10px 14px;
               text-decoration: none;
               color: #000000;
-              font-size: 110%;
+              font-size: 120%;
             }
             
             /* #menu li:hover > a,
@@ -265,6 +267,7 @@
               position: absolute;
               top: 15px;
               right: 9px;
+              
               
               
               
@@ -393,12 +396,17 @@
               <input type="search" placeholder="Type to search">
               <button type="submit"><img src=""></button>
           </form>
-
+          
+           <!-- <button class="header-action-btn" aria-label="toggle search" title="Search">
+          <ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+        </button>
+        <button class="header-action-btn" aria-label="cart" title="Cart">         
+        </button> -->
       </div>
+      <button type="submit"><i class="fa fa-search"></i></button>
 
       <div class="header-actions">
-
-        <button class="header-action-btn" aria-label="toggle search" title="Search">
+        <!-- <button class="header-action-btn" aria-label="toggle search" title="Search">
           <ion-icon name="search-outline" aria-hidden="true"></ion-icon>
         </button>
 
@@ -406,7 +414,7 @@
           
 
           
-        </button>
+        </button> -->
 
         <a href="#" class="btn has-before">
           <span class="span">Study Abroad</span>
@@ -576,7 +584,7 @@
                 </h3>
 
                 <p class="card-text">
-                  <!-- Lorem ipsum dolor consec tur elit adicing sed umod tempor. -->
+                  
                 </p>
 
                 <span class="card-badge">8 Colleges</span>

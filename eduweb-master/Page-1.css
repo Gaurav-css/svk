@@ -1,5 +1,5 @@
 .body{
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/new.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../eduweb-master/images/rvback\ \(1\).jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-position-y: center;
@@ -8,6 +8,17 @@
 
  .body{
   min-height: 363px;
+}
+.circular--square{
+  border-radius: 100%;
+  size: 100%;
+  width: 150px;
+  height: 150px;
+  padding-left: -200px;
+  margin-left: -180px;
+  margin-bottom: -180px;
+  /* align-items: center; */
+
 }
 .u-section-1 .u-sheet-1 {
   min-height: 360px;

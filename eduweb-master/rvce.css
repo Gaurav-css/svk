@@ -9,8 +9,25 @@
 .body{
   min-height: 300px;
 }
+.circular--square{
+  border-radius: 100%;
+  size: 100%;
+  width: 200px;
+  height: 200px;
+  padding-left: -200px;
+  margin-left: -180px;
+  margin-bottom: -180px;
+  /* align-items: center; */
+
+}
 .u-section-1 .u-sheet-1 {
   min-height: 300px;
+}
+.s{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  text-align: left;
+  /* margin-right: 10cap; */
 }
 
 -section-1 .u-text-1 {

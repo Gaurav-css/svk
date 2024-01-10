@@ -9,6 +9,17 @@
  .body{
   min-height: 363px;
 }
+.a{
+  margin: 10%;
+  
+}
+.ss{
+  margin: -70%;
+
+}
+.s{
+  margin: -140%;
+}
 
 .circular--square{
   border-radius: 100%;

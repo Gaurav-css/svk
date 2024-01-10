@@ -5,6 +5,17 @@
  
 }
 
+.circular--square{
+  border-radius: 100%;
+  size: 100%;
+  width: 150px;
+  height: 150px;
+  padding-left: -200px;
+  margin-left: -180px;
+  margin-bottom: -180px;
+  /* align-items: center; */
+
+}
 .body {
   min-height: 360px;
 }

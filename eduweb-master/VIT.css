@@ -472,6 +472,17 @@
   background-image: none;
   padding: 0;
 }
+.a{
+  margin: 10%;
+  
+}
+.ss{
+  margin: -30%;
+
+}
+.s{
+  margin: -50%;
+}
 
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {

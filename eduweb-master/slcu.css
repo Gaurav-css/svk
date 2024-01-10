@@ -1,9 +1,9 @@
 
 
 .body{
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("/svk/eduweb-master/images/BILS-Building2.jpeg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("../eduweb-master/images/christback.png");
   background-position: 50% 50%;
-  filter: brightness(110%);
+  filter: brightness(90%);
   
 }
 
@@ -11,7 +11,7 @@
   min-height: 363px;
 }
 .circular--square{
-  border-radius: 50% 10%;
+  border-radius: 560%;
   size: 100%;
   width: -300px;
   height: 180px;

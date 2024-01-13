@@ -223,6 +223,14 @@
   margin: 76px 124px 37px auto;
   padding: 0;
 }
+.u-section-3 .u-btn-5 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  margin: 76px 124px 37px auto;
+  padding: 0;
+}
+
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {

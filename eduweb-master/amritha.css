@@ -6,6 +6,7 @@
   
 }
 
+
  .body{
   min-height: 363px;
 }
@@ -20,6 +21,21 @@
   /* align-items: center; */
 
 }
+
+
+.a{
+  margin: 20%;
+  
+}
+.ss{
+  margin: -130%;
+
+}
+.s{
+  margin: -110%;
+}
+
+
 .u-section-1 .u-sheet-1 {
   min-height: 318px;
 }

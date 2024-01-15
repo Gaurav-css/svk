@@ -20,6 +20,16 @@
     /* align-items: center; */
   
   }
+
+  .a{
+    margin: -80%;
+  }
+  .pes{
+    margin: -155%;
+  }
+  .u-section-1 .u-sheet-1 {
+    min-height: 365px;
+  }
   .u-section-1 .u-sheet-1 {
     min-height: 360px;
   }

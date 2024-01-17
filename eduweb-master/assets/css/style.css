@@ -1,7 +1,10 @@
 
 
 
+.sh{
+  background: transparent;
 
+}
 
 
 .dropbtn4 {
@@ -914,8 +917,8 @@ input{
 
 .about-shape-2 {
   display: block;
-  bottom: -100px;
-  left: -60px;
+  bottom: -220px;
+  left: -140px;
   animation: bounce 2.5s infinite;
 }
 
@@ -1444,8 +1447,8 @@ input{
   .hero-shape-1 {
     display: block;
     position: absolute;
-    bottom: -40px;
-    left: -10px;
+    bottom: -220px;
+    left: -60px;
   }
 
 
